@@ -1,0 +1,33 @@
+h1>p{
+color: red;
+background-color: pink;
+text-decoration:underline;
+}
+
+ /* unvisited link */
+a:link {
+    color: tomato;
+    background-color: pink;
+    text-decoration:underline;
+}
+p {
+    border: 10px solid black;
+    margin: 20px;
+  }
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 50px / 25px;
+  }
+  p {
+    display: inline;
+  }
+  .test {
+    width: 50px;
+    height: 50px;
+    border: 1px solid red;
+    display: inline-block;
+  }

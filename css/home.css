@@ -1,0 +1,127 @@
+.navigation{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+color: lightblue;
+border: 1px lightblue g;
+border-radius: 15px;
+padding-left: 0px;
+padding-top: px;
+padding-right:px;
+padding-bottom: 0px;
+margin-right: px;
+display: inline;
+text-align: left;
+}
+ 
+.test {
+    width: 190px;
+    height: 300px;
+    border: 1px solid red;
+    display: none;
+  }
+.hpp{
+font-size: 45px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: blueviolet;
+border-radius: 5px;
+padding: 0px 500px 0px 550px ;
+line: spacing 5px;
+}
+
+p{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgba(255, 187, 0, 0.842);
+background-color: black;
+border-radius: 5px;
+}
+
+/* Selecting styles to be applied to several classes */
+.FirstItem, .LastItem {
+   font-size: 1.2em;
+   border-radius: 20px;
+}
+
+/* Using multiple Kinds of selectors */
+h3, .red, #redElement {
+   color: red
+}
+
+.box p {
+    color: red;
+}  
+h1 p{
+color: red;
+background-color: pink;
+border-radius: 20px;
+border-radius: 5px;
+
+}
+.pa{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: green;
+background-color: lightgreen;
+border-radius: 5px;
+}
+
+p{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: red;
+background-color: pink;
+border-radius: 5px;
+}
+.PAG{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: orange;
+background-color: grey;
+border-radius: 5px;
+}
+.pig{
+font-size: 35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: red;
+background-color: grey;
+border-radius: 5px;
+}
+
+.fer{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: red;
+border-radius: 5px;
+}
+
+.bug{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gray;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.con{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+background-color: bisque;
+border-radius: 5px;
+}
+
+.navigation{
+padding: 50px 0px 5px 1000px ;
+b: 5px grey  groove;
+
+}
+
+h3{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: oblique;
+color: aqua;
+font-size: 40px;
+}
+
+
